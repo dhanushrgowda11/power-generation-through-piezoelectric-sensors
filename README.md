@@ -1,1 +1,2 @@
 # power-generation-through-piezoelectric-sensors
+Power generation through piezoelectric sensors is an innovative energy-harvesting technique that converts mechanical vibrations, pressure, or stress into electrical energy using the piezoelectric effect. As conventional energy sources face limitations and environmental concerns, piezoelectric technology offers a sustainable and eco-friendly alternative for generating low-power electricity.
